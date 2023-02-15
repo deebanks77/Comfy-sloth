@@ -8,9 +8,9 @@ const Contact = () => {
         <h3>join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-            ipsa nihil qui fugit fuga facilis consectetur consequuntur ducimus
-            omnis ea?
+            By subscribing to our newsletter, customers will have access to our
+            dedicated customer support team, who are always available to answer
+            any questions and provide personalized assistance.
           </p>
           <form
             className="contact-form"

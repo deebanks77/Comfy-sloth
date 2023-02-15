@@ -15,13 +15,14 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque
-            consequatur est sit enim voluptatibus explicabo dolorem corrupti
-            earum nisi deleniti vero placeat debitis, quibusdam voluptatum modi
-            doloremque! Iure placeat recusandae perferendis, odit dolorum rem
-            cupiditate voluptatum modi quisquam quam repudiandae! Dolorem dolore
-            nemo quibusdam consequatur omnis veritatis. Necessitatibus, iusto
-            accusantium.
+            Our company was founded in [year] by a team of furniture enthusiasts
+            who saw a need for a personalized approach to furniture solutions.
+            Since then, we have worked tirelessly to establish ourselves as a
+            trusted brand in the industry, building a reputation for quality
+            craftsmanship, exceptional customer service, and innovative designs.
+            Today, we continue to push the boundaries of what is possible in
+            furniture design, while remaining committed to our core values of
+            integrity, excellence, and customer satisfaction.
           </p>
         </article>
       </Wrapper>

@@ -12,9 +12,10 @@ const Hero = () => {
           design your <br /> comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod atque
-          animi quia sunt explicabo aut incidunt iusto culpa! Laboriosam,
-          aliquam?
+          Our company is dedicated to helping you create the perfect space that
+          reflects your unique style and personality. Whether you're looking to
+          spruce up your home or office, our team of experts is here to guide
+          you every step of the way.
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now

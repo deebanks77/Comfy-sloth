@@ -12,9 +12,10 @@ const Services = () => {
             built only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
-            tenetur dolorum ea nam quos! Accusamus nesciunt ipsam sequi debitis
-            repudiandae. Nihil ducimus necessitatibus expedita dolorem.
+            We believe that furniture should not only be functional but also
+            beautiful and inspiring. That's why we source high-quality materials
+            and work with skilled artisans to create furniture that not only
+            lasts but also adds value to your life.
           </p>
         </article>
         <div className="services-center">
