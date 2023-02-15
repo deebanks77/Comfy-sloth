@@ -35,7 +35,7 @@ export const services = [
     id: 3,
     icon: <GiStabbedNote />,
     title: "history",
-    text: "Our company was founded in [year] by a team of furniture enthusiasts who saw a need for a personalized approach to furniture solutions. Since then, we have worked tirelessly to establish ourselves as a trusted brand in the industry, building a reputation for quality craftsmanship, exceptional customer service, and innovative designs",
+    text: "Our company was founded in 2011 by a team of furniture enthusiasts who saw a need for a personalized approach to furniture solutions. Since then, we have worked tirelessly to establish ourselves as a trusted brand in the industry",
   },
 ];
 
